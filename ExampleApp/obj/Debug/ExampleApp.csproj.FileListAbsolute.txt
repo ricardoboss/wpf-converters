@@ -1,0 +1,13 @@
+S:\repos\ricardoboss\wpf-converters\ExampleApp\obj\Debug\ExampleApp.csprojAssemblyReference.cache
+S:\repos\ricardoboss\wpf-converters\ExampleApp\obj\Debug\MainWindow.g.cs
+S:\repos\ricardoboss\wpf-converters\ExampleApp\obj\Debug\App.g.cs
+S:\repos\ricardoboss\wpf-converters\ExampleApp\bin\Debug\RicardoBoss.WPF.Converters.ExampleApp.exe.config
+S:\repos\ricardoboss\wpf-converters\ExampleApp\bin\Debug\RicardoBoss.WPF.Converters.ExampleApp.exe
+S:\repos\ricardoboss\wpf-converters\ExampleApp\bin\Debug\RicardoBoss.WPF.Converters.ExampleApp.pdb
+S:\repos\ricardoboss\wpf-converters\ExampleApp\obj\Debug\MainWindow.baml
+S:\repos\ricardoboss\wpf-converters\ExampleApp\obj\Debug\RicardoBoss.WPF.Converters.ExampleApp_MarkupCompile.cache
+S:\repos\ricardoboss\wpf-converters\ExampleApp\obj\Debug\RicardoBoss.WPF.Converters.ExampleApp.g.resources
+S:\repos\ricardoboss\wpf-converters\ExampleApp\obj\Debug\RicardoBoss.WPF.Converters.ExampleApp.Properties.Resources.resources
+S:\repos\ricardoboss\wpf-converters\ExampleApp\obj\Debug\ExampleApp.csproj.GenerateResource.cache
+S:\repos\ricardoboss\wpf-converters\ExampleApp\obj\Debug\RicardoBoss.WPF.Converters.ExampleApp.exe
+S:\repos\ricardoboss\wpf-converters\ExampleApp\obj\Debug\RicardoBoss.WPF.Converters.ExampleApp.pdb
